@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+/* Weights: 500, 800 */
+
+*{
+    font-size: 65%;
+    /* Font size (paragraph): 16px */
+
+}
+:root{
+    /* colors */
+    --yelloy-primary: hsl(47, 88%, 63%);
+
+    --white-neutral: hsl(0, 0%, 100%);
+    --grey-neutral: hsl(0, 0%, 50%);
+    --black-neutral: hsl(0, 0%, 7%);
+
+}
