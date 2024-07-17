@@ -15,6 +15,7 @@
     --white-neutral: hsl(0, 0%, 100%);
     --grey-neutral: hsl(0, 0%, 50%);
     --black-neutral: hsl(0, 0%, 7%);
+    --font-family: 'Figtree', sans-serif;
 
 }
 
@@ -49,4 +50,21 @@ body{
     height: 248px;
     display: flex;
     flex-direction: column;
+}
+.container-learning{
+    width: 82px;
+    height: 29px;
+    border-radius: 4px;
+    margin-bottom: 12px;
+    background-color: var(--yelloy-primary);
+    padding: 4px 12px 4px 12px;
+}
+
+.container-learning h2{
+    font-weight: 900;
+    color: var(--black-neutral);
+    font-size: 16px;
+    font-family: var(--font-family);
+    
+    
 }
