@@ -4,7 +4,7 @@
 
 ## Resultado
 
-Link: [https://joaovosantos.github.io/second-front-end-challenge/](https://joaovosantos.github.io/first-front-end-challenge/)
+Link: [https://joaovosantos.github.io/second-front-end-challenge/](https://joaovosantos.github.io/second-front-end-challenge/)
 
 Todo o desafio foi pego no site  [Frontend Mentor](https://www.frontendmentor.io).
 
